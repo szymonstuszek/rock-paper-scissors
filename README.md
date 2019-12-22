@@ -7,7 +7,7 @@ Play against the computer and try to defeat him in a number of rounds.
 
 Game rules provided as an array - can be modified to add even more elements.
 
-![alt text](https://github.com/szymonstuszek/alien-invaders/blob/master/src/main/resources/screens/alien3.PNG)
+![alt text](https://github.com/szymonstuszek/rock-paper-scissors/blob/master/src/main/resources/screens/rps.jpg)
 
 
 
